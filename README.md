@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./ashit-g-aviation-banner.png" alt="Ashit Gupta — aviation-themed profile banner" width="100%" />
+</p>
 <div align="center">
   <h1>✈️ ASHIT GUPTA</h1>
   <p><code>FLIGHT DECK · PERSONAL PROFILE</code></p>
