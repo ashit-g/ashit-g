@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./assets/flight-deck.svg" alt="Ashit Gupta's flight deck — student developer, DSA, business and data analytics, and aviation enthusiast" width="100%" />
-</div>
-
-<div align="center">
+  <h1>✈️ ASHIT GUPTA</h1>
+  <p><code>FLIGHT DECK · PERSONAL PROFILE</code></p>
+  <p><strong>Student Developer</strong> &nbsp;·&nbsp; <strong>DSA</strong> &nbsp;·&nbsp; <strong>Business &amp; Data Analytics</strong></p>
+  <p><em>Curious about code, data, and aviation.</em></p>
   <a href="https://github.com/ashit-g?tab=repositories">EXPLORE REPOSITORIES</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/ashit-g?tab=stars">BROWSE MY STARS</a>
@@ -14,7 +14,7 @@
 
 I’m **Ashit**, a student at **Thapar Institute of Engineering & Technology** and **Technical Secretary at ISTE**. I enjoy the challenge of problem solving, and I’m building my foundations in data structures and algorithms. I’m also interested in how business and data analytics turn information into useful insights, and have made a project with **Power BI**.
 
-Away from the dashboard, I’m an aviation enthusiast—especially fascinated by fighter jets, their design, and the engineering behind them.
+**Outside tech:** I’m enthusiastic about aviation, especially the Air Force and fighter aircraft.
 
 ## 📡 Radar: what I’m into
 
@@ -23,7 +23,7 @@ Away from the dashboard, I’m an aviation enthusiast—especially fascinated by
 | 🧩 Problem solving | Data structures and algorithms |
 | 📊 Analytics | Business intelligence, data analytics, and Power BI |
 | 💻 Building | Python, notebooks, and web technologies |
-| ✈️ Aviation | Fighter-jet design and engineering |
+| ✈️ Outside tech | Aviation enthusiast, especially interested in the Air Force and fighter aircraft |
 
 ## 🧰 Hangar toolkit
 
